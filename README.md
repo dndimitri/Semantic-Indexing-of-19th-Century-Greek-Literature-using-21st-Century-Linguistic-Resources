@@ -1,7 +1,7 @@
 # Semantic Indexing of 19th Century Greek Literature using 21st Century Linguistic Resources
 This repository accompanies our ongoing work on Semantic Indexing of 19th Century Greek Literature using 21st Century Linguistic Resources
 
-The files of this repository contain the works of literatures that were used in our study classified by the form/genre concepts. In detail
+The files of this repository contain the works of literature that were used in our study classified by the form/genre concepts. In detail
 
 ## ol-dataset
 
